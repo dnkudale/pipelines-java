@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dnamdevkudale/Demo/_apis/build/status/dnkudale.pipelines-java?branchName=master)](https://dev.azure.com/dnamdevkudale/Demo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
